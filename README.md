@@ -17,8 +17,7 @@
 
 # Última atualização!
 - Agora contendo os livros "São Paulo em Ação" de orientação de estudos!
-
-----------------------------------------------------------------------------------------------------------------------------------
-- Api originalmente feita por y4fw (Discord: y4fw)
+<br>
+-# Api originalmente feita por y4fw (Discord: y4fw)
 
 
